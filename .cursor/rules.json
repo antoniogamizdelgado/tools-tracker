@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "name": "Bun Project Context",
+      "description": "Always include information about this being a Bun project in the context",
+      "pattern": ".*",
+      "message": "This is a Bun project. Bun is a fast JavaScript runtime, bundler, transpiler, and package manager. It's designed to be a drop-in replacement for Node.js with improved performance and additional features. When providing assistance, consider Bun-specific APIs, package management with 'bun install', and testing with 'bun test'."
+    }
+  ]
+} 
